@@ -1,8 +1,12 @@
-# Static Website: Typography
+# Static Website: Davie's Burger
 
-Aoife Conleavy is a novelist who has been writing about her travels for nearly two decades. Before the launch of her new novel Tide Blade, which features the stories of real-life characters in Morocco, the author wants to spruce up her professional website. You’ll modify the typography on her site, changing the size, style, and font families, to make the page easier to read.
+In this project, you will follow step-by-step instructions to fix a fictional restaurant’s website. All of the HTML and most of the CSS is intact, but the box model properties have yet to be set. You’ll use knowledge of height, width, padding, border, and margin to complete this project.
 
-Using your understanding of typography, help Aoife Conleavy improve the readability of her site for her readers.
+The website’s existing index.html and style.css files are displayed in the text
+editor to the right. As you work, use both to see which elements you are
+selecting and styling. Most of the elements that you’ll need to add styles for
+already have rule sets in style.css to which you can add additional
+declarations.
 
 ## Finished Website
 
